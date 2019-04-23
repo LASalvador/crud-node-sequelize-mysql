@@ -1,0 +1,19 @@
+{
+  "name": "crudteste",
+  "version": "1.0.0",
+  "description": "a simple crud with node, express and sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-Express-SequelizeJs-MySQL"
+  ],
+  "author": "Lucas Salvador",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.7.3"
+  }
+}
