@@ -1,8 +1,8 @@
 const env = {
     database: 'teste',
     username: 'root',
-    password: 'epsoft123',
-    host: 'dev.kanban360.com.br',
+    password: '',
+    host: '',
     dialect: 'mysql',
     pool: {
       max: 5,
